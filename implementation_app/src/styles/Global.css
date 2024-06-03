@@ -1,0 +1,54 @@
+
+.ch-bor-gr{
+  border: 1px solid grey;
+}
+
+.ch-rcv-msg{
+    color: white;
+    background-color: green;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-right: 4rem;
+    margin-top: 0.5rem;
+    text-align: left;
+  }
+
+  .ch-snd-msg{
+    color: white;
+    background-color: blue;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+    text-align: right;
+  }
+
+.ch-p-1{ padding: 1rem; }
+.ch-p-2{ padding: 2rem; }
+.ch-p-3{ padding: 3rem; }
+.ch-p-4{ padding: 4rem; }
+
+.ch-pl-05{ padding-left: 0.5rem; }
+.ch-pl-1{ padding-left: 1rem; }
+.ch-pl-2{ padding-left: 2rem; }
+.ch-pl-3{ padding-left: 3rem; }
+.ch-pl-4{ padding-left: 4rem; }
+
+.ch-pr-05{ padding-right: 0.5rem; }
+.ch-pr-1{ padding-right: 1rem; }
+.ch-pr-2{ padding-right: 2rem; }
+.ch-pr-3{ padding-right: 3rem; }
+.ch-pr-4{ padding-right: 4rem; }
+
+.ch-m-1{ margin: 1rem; }
+.ch-m-2{ margin: 2rem; }
+.ch-m-3{ margin: 3rem; }
+.ch-m-4{ margin: 4rem; }
+
+
+.ch-mt-025{ margin-top: 0.25rem;}
+.ch-mt-05{ margin-top: 0.5rem;}
+.ch-mt-1{ margin-top: 1rem;}
+.ch-mt-2{ margin-top: 2rem;}
+.ch-mt-3{ margin-top: 3rem;}
+.ch-mt-4{ margin-top: 4rem;}    
